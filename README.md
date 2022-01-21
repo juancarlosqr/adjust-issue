@@ -1,5 +1,7 @@
 # adjust-issue
 
+**RESOLUTION UPDATE**: The issue was that the `Web SDK` solution was not activated for our account. Make sure to request to the Adjust Web Attribution team the activation of the web solution
+
 I setup this repo to share with you 2 examples of how the Adjust WebSDK integration is not working for us. This is not our actual setup but it demonstrate that the setup is not working for us in any way. We have a Vue integration but I'm sure I'm initializing the SDK in the right way, according to your README recommendation.
 
 Feel free to run the projects by just running in the folders `yarn install` and `yarn start` (NodeJS setup required).
